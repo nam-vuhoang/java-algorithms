@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.vunam</groupId>
-	<artifactId>practive-java-11</artifactId>
+	<artifactId>java-algorithms</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>practive-java</name>
-	<description>Practice Java skills on HackerRank, Codility, etc.</description>
+	<name>java-algorithms</name>
+	<description>Solutions to algorithm problems on Codility, HackerRank, etc.</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
